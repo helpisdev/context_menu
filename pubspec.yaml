@@ -1,7 +1,7 @@
 name: context_menu
 description: Contexual menu.
 version: 0.0.2
-repository: "https://github.com/helpis-software/context_menu.git"
+repository: "https://github.com/helpisdev/context_menu.git"
 publish_to: none
 
 environment:
