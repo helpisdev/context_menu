@@ -5,8 +5,8 @@ repository: "https://github.com/helpisdev/context_menu.git"
 publish_to: none
 
 environment:
-  sdk: ">=3.2.3 <4.0.0"
-  flutter: ">=3.16.5 <4.0.0"
+  sdk: ">=3.2.4 <4.0.0"
+  flutter: ">=3.16.7 <4.0.0"
 
 dependencies:
   after_layout: ^1.2.0
